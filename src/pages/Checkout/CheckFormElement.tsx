@@ -85,9 +85,9 @@ useEffect(() => {
 
         payment_method_data: {
           billing_details: {
-            name : 'vikash verma',
+            name : 'Aditya Bhardwaj',
             phone : '8269700955',
-            email : 'vikashvermacom92@gmail.com',
+            email : 'aadityahardwaj5cs@gmail.com',
             address:{
               city : 'Bhopal',
               country : 'india',
